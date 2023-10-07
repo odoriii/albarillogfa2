@@ -1,6 +1,7 @@
 .container{
-    text-align: center; 
-    background-image: linear-gradient(to bottom right, #FD2432, #DF0A22, #F9524B,#FC8F7B, rgb(240, 205, 205), #FC8F7B,#F9524B, #F9524B, #DF0A22,#FD2432 ); color: white;}
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #FD2432, #DF0A22, #F9524B,#FC8F7B, rgb(240, 205, 205), #FC8F7B,#F9524B, #F9524B, #DF0A22,#FD2432); color: white 100vh;
+}
 .container div{min-height: 40vh;}
 .sidelinks{
     display: inline-block; 
@@ -25,7 +26,7 @@
     width: 35.5vw;
     margin-left: 5vw; 
     margin-right: 5vw; 
-    margin-bottom: 2vh;}
+    margin-bottom: 2vw;}
 .side-content{
     display: inline-block; 
     border: 1px solid black; 
@@ -39,7 +40,6 @@
     width:20vw;
     border-radius: 15px;
     }
-.main-content h2{text-shadow: 1px 1px black;}
 .main-content h2 span{
     text-shadow: none; 
     background: linear-gradient(to bottom right, white, white, white, #DF0A22, red ,#DF0A22, #F9524B,white, white, white); -webkit-text-fill-color: transparent;-webkit-background-clip: text;}
