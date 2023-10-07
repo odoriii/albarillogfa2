@@ -43,7 +43,6 @@
 .main-content h2 span{
     text-shadow: none; 
     background: linear-gradient(to bottom right, white, white, white, #DF0A22, red ,#DF0A22, #F9524B,white, white, white); -webkit-text-fill-color: transparent;-webkit-background-clip: text;}
-.main-content p{text-shadow: 1px 1px black}
 
 @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 .main-content h2{
