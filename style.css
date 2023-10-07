@@ -12,7 +12,7 @@
     margin-top: 0.5vw;
     }
 .sidelinks a{display:block;}
-.sidelinks img{margin-top: 5px}
+.sidelinks img{margin-top: 0.5vh}
 .main-content{
     display:inline-block; 
     border: 1px solid black; 
